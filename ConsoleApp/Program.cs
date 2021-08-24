@@ -13,6 +13,9 @@ namespace ConsoleApp
         }
     }
 
+    /// <summary>
+    /// test
+    /// </summary>
     public interface IMyClass : IEnumerable
     {
         string MyMethod();
