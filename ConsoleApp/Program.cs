@@ -15,7 +15,7 @@ namespace ConsoleApp
 
 
     /// <summary>
-    /// test
+    /// test me
     /// </summary>
     public interface IMyClass : IEnumerable
     {
